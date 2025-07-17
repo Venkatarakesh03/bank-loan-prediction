@@ -1,0 +1,2 @@
+dir
+python -m streamlit run Bank_Loan_Prediction.py
